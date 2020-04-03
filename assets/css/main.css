@@ -241,6 +241,29 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Nav-bar */
+.nav-list {
+	margin-left: -4em;
+	margin-right: -4em;
+}
+
+.nav-list li {
+	padding: 0;
+	line-height: 3em;
+}
+
+.nav-list a{
+	color: #e1f5ff;
+	display: inline-block;
+	width: 100%;
+	border: none;
+}
+
+.nav-list .active {
+	background: rgba(255, 255, 255, 0.6);
+	color: #0277bd;
+}
+
 /* Container */
 
 	.container {
