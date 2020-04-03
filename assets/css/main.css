@@ -250,6 +250,7 @@ input, select, textarea {
 .nav-list li {
 	padding: 0;
 	line-height: 3em;
+	text-align: center;
 }
 
 .nav-list a{
@@ -263,7 +264,6 @@ input, select, textarea {
 	background: rgba(255, 255, 255, 0.6);
 	color: #0277bd;
 }
-
 /* Container */
 
 	.container {
